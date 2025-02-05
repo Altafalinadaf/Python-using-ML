@@ -1,0 +1,7 @@
+print("hello world",end=" ")
+print('hello')
+print('''khaleel''')
+print("hi how are you" ,end=" ")
+print("i'm good")
+print("i am ",end="")
+print("ali")

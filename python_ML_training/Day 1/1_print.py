@@ -1,0 +1,5 @@
+print('hello world')
+print("hello")
+print('''khaleel''')
+print('hi')
+print('hi how are you"hi "')
