@@ -8,18 +8,21 @@ while True:
         print("km = 8km")
         p=a*8
         print('price= ',p)
+
     elif ch==2:
         print('source= yelhanka')
         print('destination=yeshwantpur')
         print("km = 12km")
         p=a*12
         print('price= ',p)
+
     elif ch==3:
         print('source= yelhanka')
         print('destination=majestic')
         print("km = 17km")
         p=a*17
         print('price= ',p)
+        
     elif ch==4:
         print('source= yelhanka')
         print('destination=shivaginagar')

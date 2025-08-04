@@ -41,7 +41,7 @@ def cardholder1():
                 choice = int(input("\nEnter you option:\n"))
 
                 if choice == 1:
-                    print("Balance =R", balance)
+                    print("B    alance =R", balance)
                 elif choice == 2:
                     dep = int(input("Enter your doposit:R"))
                     balance += dep

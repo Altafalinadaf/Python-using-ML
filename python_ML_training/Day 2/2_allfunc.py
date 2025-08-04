@@ -19,7 +19,7 @@ def mul():
     mul=(a * b)
     print(mul)
 
-while True:
+while True:  
     ch=int(input("enter the choice\n 1.add 2.sub 3.div 4.mul"))
     if ch==1:
         add()

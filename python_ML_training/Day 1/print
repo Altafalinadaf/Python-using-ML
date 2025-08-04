@@ -1,6 +1,4 @@
-
-
-spam=int(input('enter the name'))
+spam=input('enter the name : ')
 if spam=='hi':
     print("hello")
 elif spam==2:

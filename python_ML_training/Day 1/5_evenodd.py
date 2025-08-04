@@ -11,4 +11,3 @@ if b%2==0:
     print("{0} is even ".format(b))
 else:
     print("{0} not even number ".format(b))
-
